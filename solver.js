@@ -1,5 +1,4 @@
 'use strict';
-import './style.css';
 
 function SudokuSolver() {
 	var puzzle_table = [];
